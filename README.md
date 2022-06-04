@@ -1,4 +1,5 @@
 # Hash Digest Tool GUI
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/hashgui/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/hashgui/releases)
 #### HashFile Graphical User Interface
 
 This tool was written for educational purposes and to check the integrity of my softwares (at Windows machines).
