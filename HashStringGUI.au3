@@ -35,6 +35,7 @@ Func Main()
 				Switch GUICtrlRead($idCombo)  ; Read the combobox selection.
 					Case "CRC32 (32bit)"
 						$iAlgorithm = "CRC32"
+						
 					Case "MD2 (128bit)"
 						$iAlgorithm = $CALG_MD2
 
