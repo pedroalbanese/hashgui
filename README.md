@@ -9,7 +9,7 @@ This tool was written for educational purposes and to check the integrity of my 
 </div>
 
 
-Visit: [ALBANESE Lab: Pojects](http://albanese.atwebpages.com/projects.php)
+Visit: [ALBANESE Lab: Projects](http://albanese.atwebpages.com/projects.php)
 
 ## License
 
